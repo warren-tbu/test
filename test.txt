@@ -1,1 +1,6 @@
 22222222222222
+
+
+
+https://github.com/login/*
+|https://api.github.com/user|https://api.github.com/copilot_internal/*|https://copilot-telemetry.githubusercontent.com/telemetry|https://default.exp-tas.com|https://copilot-proxy.githubusercontent.com|https://origin-tracker.githubusercontent.com|https://*.githubcopilot.com
